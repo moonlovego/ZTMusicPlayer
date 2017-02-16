@@ -1,53 +1,63 @@
 {
   "result" : [
     {
-      "name" : "APoemForYou.mp3",
+      "imgName" : "haiqilai.jpg",
       "detail" : "不是每一首歌都会给你一种美好的心情",
+      "name" : "APoemForYou.mp3",
       "duration" : "1'17"
     },
     {
-      "name" : "buguake.mp3",
+      "imgName" : "haoxinqing",
       "detail" : "有一首歌听了再也不会挂科",
+      "name" : "buguake.mp3",
       "duration" : "3'51"
     },
     {
-      "name" : "DJMFan.mp3",
+      "imgName" : "hailema.jpg",
       "detail" : "你有飚起来吗",
+      "name" : "DJMFan.mp3",
       "duration" : "3'46"
     },
     {
-      "name" : "ganyu.mp3",
+      "imgName" : "xinshang.jpg",
       "detail" : "有一种音乐需要静静的去欣赏",
+      "name" : "ganyu.mp3",
       "duration" : "3'40"
     },
     {
-      "name" : "gaobaoqiqiu.mp3",
+      "imgName" : "weimei.jpg",
       "detail" : "很唯美的翻唱",
+      "name" : "gaobaoqiqiu.mp3",
       "duration" : "3'33"
     },
     {
-      "name" : "youngforyou.mp3",
+      "imgName" : "youya.jpg",
       "detail" : "优雅的小节奏",
+      "name" : "youngforyou.mp3",
       "duration" : "2'25"
     },
     {
-      "name" : "shanye.mp3",
+      "imgName" : "jiezou.jpg",
       "detail" : "跟上我的小节奏",
+      "name" : "shanye.mp3",
       "duration" : "3'52"
     },
     {
-      "name" : "SeveRadioEdit.mp3",
+      "imgName" : "xiaoqingxin.jpeg",
       "detail" : "小清新",
+      "name" : "SeveRadioEdit.mp3",
       "duration" : "3'31"
     },
     {
-      "name" : "TalkLove.mp3",
+      "imgName" : "love.jpg",
       "detail" : "爱我大声说出来",
+      "name" : "TalkLove.mp3",
       "duration" : "3'37"
     },
     {
-      "name" : "xiaotiaowa.mp3",
+      "imgName" : "xiaotiaowa.jpg",
       "detail" : "还记得当年那首儿歌吗",
+      "name" : "xiaotiaowa.mp3",
       "duration" : "2'31"
     }
   ]
